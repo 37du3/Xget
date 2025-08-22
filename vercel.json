@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/[...path].js": {
-      "runtime": "edge"
+      "runtime": "edge@1.5.0"  // 补充 Edge 运行时版本号
     }
   },
   "headers": [
